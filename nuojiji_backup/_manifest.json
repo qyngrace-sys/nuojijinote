@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788599433840,
+  "timestamp": 1788599439407,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -129,7 +129,8 @@
     "healthEntries": true,
     "healthProfile": true,
     "homelandState": true,
-    "fontStore": true
+    "fontStore": true,
+    "radioData": true
   },
   "inProgress": true
 }
